@@ -1,2 +1,2 @@
 # Pages
-This is the official Github Pages of the KCISEC_KSVG photography organization. The domain name is deployed under kcisec.site, and the domain name is named ksvg.kcisec.site. It has an inseparable relationship with the KCISEC (KunShan) 23-24 Grade9 Homeroom United.
+This is the official Github Pages of the KCISEC_KSVG photography organization. The domain name is deployed under kcisec.site, named ksvg.kcisec.site. It has an inseparable relationship with the KCISEC (KunShan) 23-24 Grade9 Homeroom United.
